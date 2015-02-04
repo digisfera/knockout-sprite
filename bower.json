@@ -1,0 +1,14 @@
+{
+  "name": "knockout-sprite",
+  "version": "0.0.1",
+  "description": "SVG/PNG sprites for knockout.js",
+  "main": "knockout-sprite.js",
+  "authors": [
+    "Digisfera"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/digisfera/knockout-sprite.git"
+  }
+}
